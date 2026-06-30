@@ -1,36 +1,16 @@
-# README.md-
-Frontend Developer | B.Tech CSE 3rd Year | Skilled in HTML, CSS, JavaScript, React.js | Built projects like AI Resume Analyzer &amp; Online Code Compiler | Passionate about UI design &amp; learning advanced JS | [LinkedIn](https://www.linkedin.com/in/shivani-panchal-424a78369/)
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Shivani%20Panchal!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=51&descAlign=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Shivani%20Panchal!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=51&descAlign=62" width="100%" alt="Header" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivani-1508444&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/shivani-1508444">
+    <img src="https://komarev.com/ghpvc/?username=shivani-1508444&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-## 👩🏻‍💻 About Me
-Highly motivated **Frontend Developer** and Computer Science Student with a passion for building scalable, responsive, and user-friendly web applications.
+<h3 align="center">MERN Stack Developer | B.Tech CSE 3rd Year | Passionate about UI/UX & Scalable Backend</h3>
 
-**I specialize in developing:**
-- ✅ Responsive UI/UX Designs
-- ✅ Interactive Single Page Applications (SPAs)
-- ✅ Modern Frontend Architectures using React.js
-- ✅ Analytical Dashboards & E-commerce Platforms
-- ✅ Cross-browser Compatible Web Apps
-
-**Currently working on projects involving:**
-- Component-Based Architecture in React
-- Client-side Data Management (LocalStorage/State)
-- Advanced CSS & Styling Strategies
-- Web Performance Optimization
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/shivani-panchal-424a78369" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -44,83 +24,116 @@ Highly motivated **Frontend Developer** and Computer Science Student with a pass
 
 ---
 
+## 👩🏻‍💻 About Me
+Highly motivated **MERN Stack Developer** and Computer Science Student with a passion for building scalable, responsive, and user-friendly web applications from frontend to backend.
+
+**I specialize in developing:**
+- ✅ **Full Stack Applications** using MongoDB, Express.js, React.js, and Node.js
+- ✅ Responsive UI/UX Designs & Interactive Single Page Applications (SPAs)
+- ✅ RESTful APIs and Database Management
+- ✅ Analytical Dashboards & E-commerce Platforms
+- ✅ Cross-browser Compatible Web Apps
+
+**Currently working on projects involving:**
+- Component-Based Architecture in React
+- Backend server architecture using Node.js & Express
+- NoSQL Database design with MongoDB
+- Web Performance Optimization & Advanced CSS Styling
+
+---
+
+<table width="100%" align="center">
+<tr>
+<td width="50%" valign="top">
+
 ## 🎓 Academic & Continuous Learning
 I am currently pursuing my **B.Tech in Computer Science (3rd Year)** at *Shri Guru Sandipani Group of Institute & Science, Ujjain*. 
 
-I believe that continuously building real-world projects and learning modern frameworks is the best way to grow as a software engineer. My focus is on turning complex problems into beautiful, intuitive interface designs.
+I believe that continuously building real-world projects and learning modern frameworks is the best way to grow as a software engineer. My focus is on turning complex problems into beautiful, intuitive interface designs and robust backend systems.
 
----
-
-## 💻 Tech Stack
-
-### Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,tailwind" alt="Frontend" />
-  </a>
-</p>
-
-### Tools & Deployment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman,vercel" alt="Tools" />
-  </a>
-</p>
-
----
-
-## 🏆 Professional Highlights
-
-- 📊 **Developed** a Smart Resume Analyzer with ATS scoring and skill detection
-- 🛒 **Built** responsive e-commerce platforms with filtering and cart functionality
-- 💻 **Created** interactive Online Code Compilers with instant output visualization
-- ⚡ **Optimized** web application performance and UI responsiveness
-- 📱 **Designed** user-friendly, mobile-first layouts using Bootstrap & Tailwind CSS
-
----
-
-## 🚀 Featured Projects
-
-### 📝 Smart Resume Analyzer
-A smart analyzer platform designed to help users optimize their resumes.
-* **Features:** ATS score generation, Resume Preview, Skill Analysis, Missing Skill Detection, Personalized Suggestions.
-* **Tech Stack:** `React.js` • `JavaScript` • `CSS` • `LocalStorage`
-
-### 🕉️ Simhastha Website (Team Project)
-A responsive e-commerce platform based on the Ujjain Simhastha Mahakumbh theme.
-* **Features:** Product Listing, Advanced Filtering, Dynamic Cart Functionality.
-* **Tech Stack:** `React.js` • `Bootstrap` • `CSS`
-
-### 💻 Online Code Compiler (Duo Project)
-A web-based platform for developers to write and test code instantly.
-* **Features:** Instant Output Execution, Responsive Layouts, User-friendly Interface.
-* **Tech Stack:** `HTML` • `CSS` • `JavaScript`
-
----
+</td>
+<td width="50%" valign="top">
 
 ## 🏅 Certifications & Education
 
 - ✔️ **Frontend Developer** (Issued by Skilledu.in - Cert. No: SU0525FA044)
 - ✔️ **B.Tech in Computer Science** (Pursuing - RGPV University)
 
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,jquery,bootstrap,tailwind&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman,vercel&perline=10" alt="Tools" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 Smart Resume Analyzer</h3>
+      <p>A smart analyzer platform designed to help users optimize their resumes.</p>
+      <ul>
+        <li><b>Features:</b> ATS score generation, Resume Preview, Skill Analysis, Missing Skill Detection, Personalized Suggestions.</li>
+        <li><b>Tech Stack:</b> <code>React.js</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🕉️ Simhastha Website (Team)</h3>
+      <p>A responsive e-commerce platform based on the Ujjain Simhastha Mahakumbh theme.</p>
+      <ul>
+        <li><b>Features:</b> Product Listing, Advanced Filtering, Dynamic Cart Functionality.</li>
+        <li><b>Tech Stack:</b> <code>React.js</code> • <code>Bootstrap</code> • <code>Node.js</code> • <code>MongoDB</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Online Code Compiler (Duo)</h3>
+      <p>A web-based platform for developers to write and test code instantly.</p>
+      <ul>
+        <li><b>Features:</b> Instant Output Execution, Responsive Layouts, User-friendly Interface.</li>
+        <li><b>Tech Stack:</b> <code>React.js</code> • <code>Node.js</code> • <code>Express</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Professional Highlights</h3>
+      <ul>
+        <li>📊 <b>Developed</b> full-stack platforms with user authentication and CRUD operations.</li>
+        <li>🛒 <b>Built</b> responsive e-commerce sites with dynamic data handling.</li>
+        <li>⚡ <b>Optimized</b> web application performance and UI responsiveness.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📈 GitHub Analytics
 
-
-
-### 🔥 Contribution Stats & Streak
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivani-1508444&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-1508444&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-### 📊 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-1508444&layout=compact&theme=radical&hide_border=true&hide=c%23,csharp" alt="Top Languages" width="48%" />
 </p>
 
-### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-1508444&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
@@ -129,11 +142,10 @@ A web-based platform for developers to write and test code instantly.
 
 ## 🎯 Current Goals
 
-- 🌟 Master the **React.js Ecosystem**
+- 🌟 Master the **React.js & Node.js Ecosystem**
 - 🤝 Contribute to **Open Source Projects**
-- 💼 Secure a **Frontend Development Internship**
-- 🚀 Learn Backend basics (Node.js) to become a Full Stack Developer
-- 🧠 Build Scalable & Complex Web Applications
+- 💼 Secure a **MERN Stack Developer Internship**
+- 🧠 Build Scalable & Complex Web Applications with Databases
 
 ---
 
@@ -152,15 +164,4 @@ A web-based platform for developers to write and test code instantly.
 
 <!--
 **shivani-1508444/shivani-1508444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
