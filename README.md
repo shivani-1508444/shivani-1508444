@@ -27,18 +27,17 @@
 ## 👩🏻‍💻 About Me
 Highly motivated **MERN Stack Developer** and Computer Science Student with a passion for building scalable, responsive, and user-friendly web applications from frontend to backend.
 
+- 🌱 **I’m currently learning:** Next.js, TypeScript, and Advanced System Design.
+- 👯 **I’m looking to collaborate on:** Open-source projects and MERN stack applications.
+- 💬 **Ask me about:** React.js, Node.js, Express, MongoDB, and UI/UX design.
+- 📫 **How to reach me:** [dp6246012@gmail.com](mailto:dp6246012@gmail.com)
+
 **I specialize in developing:**
 - ✅ **Full Stack Applications** using MongoDB, Express.js, React.js, and Node.js
 - ✅ Responsive UI/UX Designs & Interactive Single Page Applications (SPAs)
 - ✅ RESTful APIs and Database Management
 - ✅ Analytical Dashboards & E-commerce Platforms
 - ✅ Cross-browser Compatible Web Apps
-
-**Currently working on projects involving:**
-- Component-Based Architecture in React
-- Backend server architecture using Node.js & Express
-- NoSQL Database design with MongoDB
-- Web Performance Optimization & Advanced CSS Styling
 
 ---
 
@@ -88,38 +87,29 @@ I believe that continuously building real-world projects and learning modern fra
       <h3>📝 Smart Resume Analyzer</h3>
       <p>A smart analyzer platform designed to help users optimize their resumes.</p>
       <ul>
-        <li><b>Features:</b> ATS score generation, Resume Preview, Skill Analysis, Missing Skill Detection, Personalized Suggestions.</li>
-        <li><b>Tech Stack:</b> <code>React.js</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code></li>
+        <li><b>Features:</b> ATS score generation, Resume Preview, Skill Analysis.</li>
+        <li><b>Tech Stack:</b> <code>React.js</code> • <code>Node.js</code> • <code>MongoDB</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🕉️ Simhastha Website (Team)</h3>
       <p>A responsive e-commerce platform based on the Ujjain Simhastha Mahakumbh theme.</p>
       <ul>
-        <li><b>Features:</b> Product Listing, Advanced Filtering, Dynamic Cart Functionality.</li>
-        <li><b>Tech Stack:</b> <code>React.js</code> • <code>Bootstrap</code> • <code>Node.js</code> • <code>MongoDB</code></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Online Code Compiler (Duo)</h3>
-      <p>A web-based platform for developers to write and test code instantly.</p>
-      <ul>
-        <li><b>Features:</b> Instant Output Execution, Responsive Layouts, User-friendly Interface.</li>
-        <li><b>Tech Stack:</b> <code>React.js</code> • <code>Node.js</code> • <code>Express</code></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏆 Professional Highlights</h3>
-      <ul>
-        <li>📊 <b>Developed</b> full-stack platforms with user authentication and CRUD operations.</li>
-        <li>🛒 <b>Built</b> responsive e-commerce sites with dynamic data handling.</li>
-        <li>⚡ <b>Optimized</b> web application performance and UI responsiveness.</li>
+        <li><b>Features:</b> Product Listing, Advanced Filtering, Dynamic Cart.</li>
+        <li><b>Tech Stack:</b> <code>React.js</code> • <code>Bootstrap</code> • <code>Node.js</code></li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shivani-1508444&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -134,8 +124,9 @@ I believe that continuously building real-world projects and learning modern fra
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-1508444&layout=compact&theme=radical&hide_border=true&hide=c%23,csharp" alt="Top Languages" width="48%" />
 </p>
 
+### 🟩 My Contributions Grid
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-1508444&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/58A6FF/shivani-1508444" alt="Shivani's Github Contribution Chart" width="100%" />
 </p>
 
 ---
@@ -153,15 +144,10 @@ I believe that continuously building real-world projects and learning modern fra
 
 <div align="center">
   <i>"First, solve the problem. Then, write the code."</i><br>
-  — John Johnson<br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  — John Johnson
 </div>
 
 <div align="center">
   <br>⭐ <b>Thanks for visiting my profile!</b> ⭐<br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
 </div>
-
-<!--
-**shivani-1508444/shivani-1508444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
