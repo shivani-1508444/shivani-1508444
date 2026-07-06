@@ -112,7 +112,7 @@ I believe that continuously building real-world projects and learning modern fra
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivani-1508444&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.macz.in/?user=shivani-1508444&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivani-1508444&theme=radical" alt="Productive Time" width="48%" />
 </p>
 
