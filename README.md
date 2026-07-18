@@ -27,8 +27,8 @@
 ## 👩🏻‍💻 About Me
 Highly motivated **MERN Stack Developer** and Computer Science Student with a passion for building scalable, responsive, and user-friendly web applications from frontend to backend.
 
-- 🌱 **I’m currently learning:** Next.js, TypeScript, and Advanced System Design.
-- 👯 **I’m looking to collaborate on:** Open-source projects and MERN stack applications.
+- 🌱 **I'm currently learning:** Next.js, TypeScript, and Advanced System Design.
+- 👯 **I'm looking to collaborate on:** Open-source projects and MERN stack applications.
 - 💬 **Ask me about:** React.js, Node.js, Express, MongoDB, and UI/UX design.
 - 📫 **How to reach me:** [dp6246012@gmail.com](mailto:dp6246012@gmail.com)
 
@@ -46,7 +46,7 @@ Highly motivated **MERN Stack Developer** and Computer Science Student with a pa
 <td width="50%" valign="top">
 
 ## 🎓 Academic & Continuous Learning
-I am currently pursuing my **B.Tech in Computer Science (3rd Year)** at *Shri Guru Sandipani Group of Institute & Science, Ujjain*. 
+I am currently pursuing my **B.Tech in Computer Science (3rd Year)** at *Shri Guru Sandipani Group of Institute & Science, Ujjain*.
 
 I believe that continuously building real-world projects and learning modern frameworks is the best way to grow as a software engineer. My focus is on turning complex problems into beautiful, intuitive interface designs and robust backend systems.
 
@@ -90,6 +90,11 @@ I believe that continuously building real-world projects and learning modern fra
         <li><b>Features:</b> ATS score generation, Resume Preview, Skill Analysis.</li>
         <li><b>Tech Stack:</b> <code>React.js</code> • <code>Node.js</code> • <code>MongoDB</code></li>
       </ul>
+      <p>
+        <a href="https://github.com/shivani-1508444/smart-resume-analyzer">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🕉️ Simhastha Website (Team)</h3>
@@ -98,27 +103,38 @@ I believe that continuously building real-world projects and learning modern fra
         <li><b>Features:</b> Product Listing, Advanced Filtering, Dynamic Cart.</li>
         <li><b>Tech Stack:</b> <code>React.js</code> • <code>Bootstrap</code> • <code>Node.js</code></li>
       </ul>
+      <p>
+        <a href="https://github.com/shivani-1508444/simhastha-website">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
+> ⚠️ **Note:** Repo badge links above are placeholders (`smart-resume-analyzer`, `simhastha-website`). Replace them with your actual repository names so the buttons point to the real project pages.
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivani-1508444&theme=radical" alt="GitHub Profile Details" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivani-1508444&theme=radical" alt="GitHub Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivani-1508444&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-1508444&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.macz.in/?user=shivani-1508444&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivani-1508444&theme=radical" alt="Productive Time" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=shivani-1508444&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
 
 ### 🟩 My Contributions Grid
 <p align="center">
   <img src="https://ghchart.rshah.org/58A6FF/shivani-1508444" alt="Shivani's Github Contribution Chart" width="100%" />
+</p>
+
+### 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-1508444&theme=react-dark" alt="Activity Graph" width="100%" />
 </p>
 
 ---
