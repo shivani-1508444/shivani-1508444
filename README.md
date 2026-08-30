@@ -1,134 +1,167 @@
-<h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">A passionate MERN Stack Developer & Computer Science Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Computer+Science+Student;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Shivani%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Computer%20Science%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="mailto:dp6246012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/shivani-1508444">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Scalable+MERN+Applications;Turning+Ideas+Into+Clean+Interfaces;Always+Learning%2C+Always+Shipping;Open+to+Open-Source+Collaboration" alt="Typing SVG" />
 
----
+<br/>
 
-## 👩🏻‍💻 About Me
+<a href="mailto:dp6246012@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+</a>
+<a href="https://github.com/shivani-1508444">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/shivani-panchal-424a78369">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-Highly motivated **MERN Stack Developer** and Computer Science Student with a passion for building scalable, responsive, and user-friendly web applications from frontend to backend.
+<img src="https://komarev.com/ghpvc/?username=shivani-1508444&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-- 🌱 **Currently learning:** Next.js, TypeScript, and Advanced System Design
-- 👯 **Looking to collaborate on:** Open-source projects and MERN stack applications
-- 💬 **Ask me about:** React.js, Node.js, Express, MongoDB, and UI/UX design
-- 📫 **How to reach me:** [dp6246012@gmail.com](mailto:dp6246012@gmail.com)
-- ⚡ **Fun fact:** I turn complex problems into clean, intuitive interfaces
+</div>
 
----
+<br/>
 
-## 🎓 Academic & Continuous Learning
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-I am currently pursuing my **B.Tech in Computer Science (3rd Year)** at *Shri Guru Sandipani Group of Institute & Science, Ujjain*.
+```yaml
+name: Shivani Panchal
+role: MERN Stack Developer & CS Student
+education: B.Tech Computer Science (3rd Year) @ Shri Guru Sandipani Group of Institute & Science, Ujjain
+currently_learning: [Next.js, TypeScript, Advanced System Design]
+looking_to_collaborate: [Open-source projects, MERN stack applications]
+ask_me_about: [React.js, Node.js, Express, MongoDB, UI/UX design]
+fun_fact: "I turn complex problems into clean, intuitive interfaces"
+```
 
 I believe that continuously building real-world projects and learning modern frameworks is the best way to grow as a software engineer. My focus is on turning complex problems into beautiful, intuitive interface designs and robust backend systems.
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,bootstrap,git,github,figma,vscode" alt="Tech Stack" />
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-## 🚀 Featured Projects
+</div>
 
-<table>
+<br/>
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> Featured Projects
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 📄 Smart Resume Analyzer
-<ul>
-  <li><b>Features:</b> ATS score generation, Resume Preview, Skill Analysis</li>
-  <li><b>Tech Stack:</b> <code>React.js</code> • <code>Node.js</code> • <code>MongoDB</code></li>
-</ul>
-<p>
-  <a href="https://github.com/shivani-1508444/smart-resume-analyzer">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="Repo" />
-  </a>
-</p>
+A smart platform that helps users optimize their resumes for ATS systems.
+
+**Features:** ATS score generation • Resume Preview • Skill Analysis
+
+`React.js` `Node.js` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivani-1508444/smart-resume-analyzer)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🕉️ Simhastha Website (Team)
-<ul>
-  <li><b>Features:</b> Product Listing, Advanced Filtering, Dynamic Cart</li>
-  <li><b>Tech Stack:</b> <code>React.js</code> • <code>Bootstrap</code> • <code>Node.js</code></li>
-</ul>
-<p>
-  <a href="https://github.com/shivani-1508444/simhastha-website">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" alt="Repo" />
-  </a>
-</p>
+A responsive e-commerce platform built around the Ujjain Simhastha Mahakumbh theme.
+
+**Features:** Product Listing • Advanced Filtering • Dynamic Cart
+
+`React.js` `Bootstrap` `Node.js`
+
+[![Repo](https://img.shields.io/badge/View_Repo-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivani-1508444/simhastha-website)
 
 </td>
 </tr>
 </table>
 
-> ⚠️ **Note:** Replace `smart-resume-analyzer` and `simhastha-website` in the badge links above with your actual repository names if they differ, so the buttons point to the real project pages.
+> 💡 **Tip:** Update the two repo links above with your actual repository names if they differ.
 
----
+<br/>
 
-## 📈 GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivani-1508444&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-1508444&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-1508444&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=shivani-1508444&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-1508444&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-1508444&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" width="70%" />
+
+</div>
 
 ### 🟩 Contribution Grid
-<p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/shivani-1508444" alt="Shivani's GitHub Contribution Chart" width="100%" />
-</p>
+<div align="center">
+<img src="https://ghchart.rshah.org/8B5CF6/shivani-1508444" alt="Shivani's GitHub Contribution Chart" width="100%" />
+</div>
 
 ### 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-1508444&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-1508444&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff" width="100%" />
+</div>
 
----
+<br/>
 
-## 🎯 Current Goals
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"/> Current Goals
 
-- [ ] Master Next.js and Server-Side Rendering
-- [ ] Deep-dive into TypeScript for large-scale apps
-- [ ] Learn Advanced System Design principles
-- [ ] Contribute to more open-source projects
-- [ ] Build and ship a full-scale SaaS product
+- 🌟 Master the **React.js & Node.js Ecosystem**
+- 🤝 Contribute to **Open Source Projects**
+- 💼 Land a **MERN Stack Developer Internship**
+- 🧠 Build scalable, database-driven full-stack applications
+- 📘 Get comfortable with **Next.js**, **TypeScript** & **System Design**
 
----
+<br/>
 
-## 🤝 Connect With Me
+## 💡 Favorite Quote
 
-<p align="center">
-  <a href="mailto:dp6246012@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shivani-1508444">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivani-1508444&style=flat-square&color=58A6FF" alt="Profile Views" />
-</p>
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
 
-<p align="center"><i>⭐️ From <a href="https://github.com/shivani-1508444">shivani-1508444</a></i></p>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="mailto:dp6246012@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/shivani-1508444">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/shivani-panchal-424a78369">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+⭐️ **Thanks for stopping by — feel free to explore my repositories!** ⭐️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
