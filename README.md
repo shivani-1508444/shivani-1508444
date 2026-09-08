@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Shivani%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Computer%20Science%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Hi%20There,%20I'm%20Shivani%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Computer%20Science%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Scalable+MERN+Applications;Turning+Ideas+Into+Clean+Interfaces;Always+Learning%2C+Always+Shipping;Open+to+Open-Source+Collaboration" alt="Typing SVG" />
 
@@ -28,13 +28,13 @@
 name: Shivani Panchal
 role: MERN Stack Developer & CS Student
 education: B.Tech Computer Science (3rd Year) @ Shri Guru Sandipani Group of Institute & Science, Ujjain
-currently_learning: [Next.js, TypeScript, Advanced System Design]
+currently_learning: [Advanced System Design, DSA]
 looking_to_collaborate: [Open-source projects, MERN stack applications]
-ask_me_about: [React.js, Node.js, Express, MongoDB, UI/UX design]
+ask_me_about: [React.js, Node.js, Express, MongoDB]
 fun_fact: "I turn complex problems into clean, intuitive interfaces"
 ```
 
-I believe that continuously building real-world projects and learning modern frameworks is the best way to grow as a software engineer. My focus is on turning complex problems into beautiful, intuitive interface designs and robust backend systems.
+I believe that continuously building real-world projects is the best way to grow as a software engineer. My focus is on turning complex problems into clean interfaces and robust backend systems.
 
 <br/>
 
@@ -48,16 +48,12 @@ I believe that continuously building real-world projects and learning modern fra
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<br/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
@@ -96,8 +92,6 @@ A responsive e-commerce platform built around the Ujjain Simhastha Mahakumbh the
 </tr>
 </table>
 
-> 💡 **Tip:** Update the two repo links above with your actual repository names if they differ.
-
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Analytics
@@ -111,16 +105,6 @@ A responsive e-commerce platform built around the Ujjain Simhastha Mahakumbh the
 
 </div>
 
-### 🟩 Contribution Grid
-<div align="center">
-<img src="https://ghchart.rshah.org/8B5CF6/shivani-1508444" alt="Shivani's GitHub Contribution Chart" width="100%" />
-</div>
-
-### 📊 Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-1508444&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff" width="100%" />
-</div>
-
 <br/>
 
 ## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"/> Current Goals
@@ -129,7 +113,6 @@ A responsive e-commerce platform built around the Ujjain Simhastha Mahakumbh the
 - 🤝 Contribute to **Open Source Projects**
 - 💼 Land a **MERN Stack Developer Internship**
 - 🧠 Build scalable, database-driven full-stack applications
-- 📘 Get comfortable with **Next.js**, **TypeScript** & **System Design**
 
 <br/>
 
