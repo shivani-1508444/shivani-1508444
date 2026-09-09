@@ -28,7 +28,6 @@
 name: Shivani Panchal
 role: MERN Stack Developer & CS Student
 education: B.Tech Computer Science (3rd Year) @ Shri Guru Sandipani Group of Institute & Science, Ujjain
-currently_learning: [Advanced System Design, DSA]
 looking_to_collaborate: [Open-source projects, MERN stack applications]
 ask_me_about: [React.js, Node.js, Express, MongoDB]
 fun_fact: "I turn complex problems into clean, intuitive interfaces"
