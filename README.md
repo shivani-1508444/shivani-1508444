@@ -152,6 +152,14 @@ A multi-language web compiler with instant output.
 
 <img src="https://streak-stats.demolab.com/?user=shivani-1508444&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" width="70%" alt="GitHub streak"/>
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-1508444&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&area_color=8B5CF6&title=Contribution%20Graph" width="100%" alt="Contribution graph"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/8B5CF6/shivani-1508444" width="100%" alt="Contribution heatmap"/>
+
 </div>
 
 <br/>
